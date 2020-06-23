@@ -89,6 +89,20 @@ p {
   margin-bottom: 1rem;
 }
 
+.alignbottom {
+		bottom: 0;
+		right: 0;
+		position: absolute;
+	}
+.footer {
+  		position: fixed;
+		opacity: 0.6;
+  		right: 0;
+  		bottom: 0;
+  		width: 100%;
+		text-align: right;
+	}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
